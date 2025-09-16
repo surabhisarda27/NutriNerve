@@ -1,0 +1,6 @@
+Disease,Recommended_Diet,Calories,Protein,Carbs,Fats,Restrictions,Disease_Label
+Diabetes,"Low sugar, high fiber diet",-1.6274669424134698,-1.5,-0.7071067811865475,-1.62746694241347,No added sugar,2
+Hypertension,"Low sodium, DASH diet",-0.4649905549752771,-0.5,0.0,-0.46499055497527714,Low salt,4
+Heart Disease,Mediterranean diet,0.6974858324629156,0.5,0.7071067811865475,0.6974858324629157,Low saturated fat,3
+Asthma,Anti-inflammatory diet,0.11624763874381927,0.0,-1.414213562373095,0.11624763874381928,Avoid processed foods,0
+Cancer,"High antioxidant, nutrient-rich diet",1.278724026182012,1.5,1.414213562373095,1.278724026182012,Avoid red meat,1
